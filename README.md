@@ -37,3 +37,10 @@ Videos Refrenced Lauren Used:
 https://youtu.be/KOvesqHDrgg and 
 https://youtu.be/GP0LQgudYUc 
 
+Dates we came in to work:
+
+10/25,
+10/26,
+10/31, and
+11/1
+
