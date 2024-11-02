@@ -3,7 +3,7 @@ https://youtu.be/KOvesqHDrggLinks to an external site.
 https://youtu.be/Sag2F-8ZQgMLinks to an external site.
 https://youtu.be/GP0LQgudYUcLinks to an external site.
 
-Our Application starts by selecting StarterScreenLevel(Levil 1). You will need to hit Shift F1 if you loose mouse controls from not clicking on a button on the screen. We were unable to build HW1 because we are both using the computers in room 225. 
+Our Application starts by selecting StarterScreenLevel(Level 1). You will need to hit Shift F1 if you loose mouse controls from not clicking on a button on the screen. We were unable to build HW1 because we are both using the computers in room 225. 
 
 Adahs Work:
 Created the menu scene with a start button that loads the first level and a quit button that exits the game, 
