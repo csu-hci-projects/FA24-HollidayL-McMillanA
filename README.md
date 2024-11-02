@@ -17,10 +17,10 @@ Level 2 has at least 3 targets and at least 3 hazards,
 Created ammo pick up.
 
 Videos Refrenced Adah used:
-https://www.youtube.com/watch?v=PiPq3q1CXyM&t=188s
-https://www.youtube.com/watch?v=lz42FHn74eg&t=52s
-https://www.youtube.com/watch?v=PVgMkUwhtoM&t=653s
-https://www.youtube.com/watch?v=SYJj2jZOI_g&t=170s
+https://www.youtube.com/watch?v=PiPq3q1CXyM&t=188s and 
+https://www.youtube.com/watch?v=lz42FHn74eg&t=52s and 
+https://www.youtube.com/watch?v=PVgMkUwhtoM&t=653s and 
+https://www.youtube.com/watch?v=SYJj2jZOI_g&t=170s and 
 
 Laurens Work:
 Created a new project, 
@@ -34,6 +34,6 @@ Created Health pick up. Cannot exceed 100,
 Did “Turn in portion”: ReadMe file, 5-10 minute video showcasing features.
 
 Videos Refrenced Lauren Used:
-https://youtu.be/KOvesqHDrgg 
+https://youtu.be/KOvesqHDrgg and 
 https://youtu.be/GP0LQgudYUc 
 
