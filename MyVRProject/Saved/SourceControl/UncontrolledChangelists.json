@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/adahmcm/Documents/Unreal Projects/MyVRProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/adahmcm/Documents/Unreal Projects/MyVRProject/Content/MyBlueprints/mygravable.uasset",
+				"C:/Users/adahmcm/Documents/Unreal Projects/MyVRProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/adahmcm/Documents/Unreal Projects/MyVRProject/Content/MyBlueprints/NewMap.umap",
+				"C:/Users/adahmcm/Documents/Unreal Projects/MyVRProject/Content/MyMaps/NewMap.umap",
+				"C:/Users/adahmcm/Documents/Unreal Projects/MyVRProject/Content/MyBlueprints/Pistol.uasset"
+			]
+		}
+	]
+}
