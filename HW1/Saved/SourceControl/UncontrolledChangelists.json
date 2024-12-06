@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/Content/FirstPerson/Blueprints/UI/StartMenu.uasset",
+				"C:/Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/Content/HW1Levels/StarterScreenLevel.umap",
+				"C:/Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/Content/HW1Levels/Level1.umap",
+				"C:/Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/Content/MyBlueprints/BP_Target.uasset",
+				"C:/Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/Content/UI/UserInterface.uasset",
+				"C:/Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/Content/MyBlueprints/AmmoPickup.uasset",
+				"C:/Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/Content/UI/WinMenu.uasset",
+				"C:/Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/Content/FirstPerson/Blueprints/UI/RegularLevelUI.uasset",
+				"C:/Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/Content/HW1Levels/Level2.umap",
+				"C:/Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/Content/MyBlueprints/Hazard.uasset",
+				"C:/Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/Content/MyBlueprints/Heal.uasset",
+				"C:/Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/Content/UI/TargetHealthBar.uasset"
+			]
+		}
+	]
+}
