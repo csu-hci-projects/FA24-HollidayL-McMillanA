@@ -1,4 +1,5 @@
 # FA24-HollidayL-McMillanA
+Our application is simple, you will load into the start screen with the option to click the button “Play” or “Quit” when it lights up. From there you will be sent to a level with a pistol, grabbable objects, targets, and unlockable area. Once you destroy the 5 targets in VR, you move on to the final level that tells you that “You Win!”. 
 
 Referenced Class Videos: Lab 4 + 5 
 - https://youtu.be/U-W1TllgPmA
