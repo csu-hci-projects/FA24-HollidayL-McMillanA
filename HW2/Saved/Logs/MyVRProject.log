@@ -4018,3 +4018,22 @@ Script Stack (0 frames) :
 [2024.12.07-04.02.53:278][303]AssetCheck: New page: Asset Save: Level1
 [2024.12.07-04.02.53:278][303]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/Level1.Level1
 [2024.12.07-04.02.57:080][740]LogSlate: Window 'Open Level' being destroyed
+[2024.12.07-04.03.43:798][503]LogDerivedDataCache: C:/Users/adahmcm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.065 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2455 files in 3370 folders with total size 153 MiB.
+[2024.12.07-04.04.14:317][537]BlueprintLog: New page: Compile Level1
+[2024.12.07-04.04.14:345][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.12.07-04.04.15:130][607]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-04.04.15:191][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.12.07-04.04.15:212][607]LogSavePackage: Moving output files for package: /Game/MyMaps/Level1
+[2024.12.07-04.04.15:212][607]LogSavePackage: Moving '../../../../../../Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/HW2/Saved/Level1CE626ADA43F071CF3A45099814338AC5.tmp' to '../../../../../../Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/HW2/Content/MyMaps/Level1.umap'
+[2024.12.07-04.04.15:220][607]LogFileHelpers: Saving map 'Level1' took 0.066
+[2024.12.07-04.04.15:227][607]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 2.24 sec)
+[2024.12.07-04.04.15:229][607]AssetCheck: New page: Asset Save: Level1
+[2024.12.07-04.04.15:229][607]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/Level1.Level1
+[2024.12.07-04.04.17:630][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-04.04.17:692][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.12.07-04.04.17:711][858]LogSavePackage: Moving output files for package: /Game/MyMaps/Level1
+[2024.12.07-04.04.17:711][858]LogSavePackage: Moving '../../../../../../Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/HW2/Saved/Level1D1A7BC384EC137A41D34F49AF760518C.tmp' to '../../../../../../Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/HW2/Content/MyMaps/Level1.umap'
+[2024.12.07-04.04.17:717][858]LogFileHelpers: Saving map 'Level1' took 0.062
+[2024.12.07-04.04.17:725][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 2.34 sec)
+[2024.12.07-04.04.17:726][858]AssetCheck: New page: Asset Save: Level1
+[2024.12.07-04.04.17:727][858]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/Level1.Level1
