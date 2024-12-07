@@ -4931,3 +4931,269 @@ Context 1/2
 [2024.12.07-02.08.04:606][965]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.12.07-02.08.04:606][965]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
 [2024.12.07-02.08.04:606][965]LogSlate: Window 'Open Level' being destroyed
+[2024.12.07-02.16.59:456][773]LogViewport: Scene viewport resized to 1189x651, mode Windowed.
+[2024.12.07-02.19.29:504][698]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.12.07-02.19.34:302][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.07-02.19.34:309][235]Cmd: MAP LOAD FILE="../../../../../../Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/HW2/Content/MyMaps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.07-02.19.34:309][235]LightingResults: New page: Lighting Build
+[2024.12.07-02.19.34:309][235]LoadErrors: New page: Loading map: Level1.umap
+[2024.12.07-02.19.34:340][235]LogWorld: UWorld::CleanupWorld for StartScreen, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-02.19.34:340][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-02.19.34:341][235]MapCheck: New page: Map Check
+[2024.12.07-02.19.34:341][235]LightingResults: New page: Lighting Build
+[2024.12.07-02.19.34:352][235]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.07-02.19.34:354][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.12.07-02.19.34:367][235]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2024.12.07-02.19.34:367][235]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.07-02.19.34:367][235]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.07-02.19.34:368][235]LogAIModule: Creating AISystem for world Level1
+[2024.12.07-02.19.34:492][235]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.07-02.19.34:510][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.12.07-02.19.34:515][235]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.07-02.19.34:515][235]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2024.12.07-02.19.34:515][235]LogSlate: Window 'Open Level' being destroyed
+[2024.12.07-02.19.45:275][504]Cmd: EDIT COPY
+[2024.12.07-02.19.47:844][811]Cmd: EDIT PASTE
+[2024.12.07-02.19.47:854][811]LogClass: Warning: Short type name "Level1_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.12.07-02.19.55:426][664]Cmd: EDIT PASTE
+[2024.12.07-02.19.55:435][664]LogClass: Warning: Short type name "Level1_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.12.07-02.20.11:825][510]Cmd: TRANSACTION UNDO
+[2024.12.07-02.20.11:825][510]LogEditorTransaction: Undo Move Elements
+[2024.12.07-02.20.31:130][714]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/mygravable.mygravable
+[2024.12.07-02.20.31:131][714]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.07-02.20.31:131][714]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.07-02.20.43:924][772]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-02.20.43:925][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: ================================================
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: Total job queries 115, among them cache hits 25 (21.74%)
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: Tracking 90 distinct input hashes that result in 67 distinct outputs (74.44%)
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: RAM used: 3.34 MiB of 1.60 GiB budget. Usage: 0.20%
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: Shaders Compiled: 31
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: Jobs assigned 31, completed 31 (100%)
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: Average time worker was idle: 274.75 s
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.09 s
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: Job execution time: average 0.65 s, max 1.62 s
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: Job life time (pending + execution): average 0.71 s, max 1.69
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: Shader code size: average 58.755 KiB, min 4.633 KiB, max 98.945 KiB
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.63 s
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: Jobs were issued in 31 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: Average processing rate: 2.45 jobs/sec
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: Total thread time: 15.817 s
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: Total thread preprocess time: 0.777 s
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: Percentage time preprocessing: 4.91%
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: Effective parallelization: 1.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    6 times, average 1.39 sec, max 1.46 sec, min 1.29 sec)
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.46 sec, max 1.41 sec, min 0.26 sec)
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   11 times, average 0.27 sec, max 0.36 sec, min 0.18 sec)
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 52.66% of total time (compiled    6 times, average 1.39 sec, max 1.46 sec, min 1.29 sec)
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.67% of total time (compiled   11 times, average 0.27 sec, max 0.36 sec, min 0.18 sec)
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.54% of total time (compiled    6 times, average 0.46 sec, max 1.41 sec, min 0.26 sec)
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display:                                                  FHitProxyVS - 2.88% of total time (compiled    2 times, average 0.23 sec, max 0.27 sec, min 0.19 sec)
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 1.70% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2024.12.07-02.20.47:596][148]LogShaderCompilers: Display: ================================================
+[2024.12.07-02.21.09:314][462]Cmd: EDIT COPY
+[2024.12.07-02.21.09:555][490]Cmd: EDIT PASTE
+[2024.12.07-02.22.15:651][850]Cmd: EDIT COPY
+[2024.12.07-02.22.15:992][891]Cmd: EDIT PASTE
+[2024.12.07-02.22.41:937][628]Cmd: TRANSACTION UNDO
+[2024.12.07-02.22.41:937][628]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.07-02.22.42:873][697]Cmd: TRANSACTION UNDO
+[2024.12.07-02.22.42:874][697]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.07-02.22.44:238][836]Cmd: TRANSACTION UNDO
+[2024.12.07-02.22.44:238][836]LogEditorTransaction: Undo Edit Static Mesh
+[2024.12.07-02.23.06:114][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-02.23.06:186][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.07-02.23.06:210][107]LogSavePackage: Moving output files for package: /Game/MyMaps/Level1
+[2024.12.07-02.23.06:211][107]LogSavePackage: Moving '../../../../../../Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/HW2/Saved/Level1923CFB9142B0E9B9867B7E8CC80A2A54.tmp' to '../../../../../../Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/HW2/Content/MyMaps/Level1.umap'
+[2024.12.07-02.23.06:218][107]LogFileHelpers: Saving map 'Level1' took 0.080
+[2024.12.07-02.23.06:227][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 3.57 sec)
+[2024.12.07-02.23.06:228][107]AssetCheck: New page: Asset Save: Level1
+[2024.12.07-02.23.06:228][107]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/Level1.Level1
+[2024.12.07-02.23.14:349][ 75]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.12.07-02.23.14:355][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.07-02.23.14:355][ 75]PIE: New page: PIE session: Level1 (Dec 6, 2024, 12:23:14 PM)
+[2024.12.07-02.23.14:355][ 75]LogPlayLevel: Display: Creating online subsystem for client :Context_57
+[2024.12.07-02.23.14:357][ 75]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2024.12.07-02.23.14:372][ 76]LogPlayLevel: Creating play world package: /Game/MyMaps/UEDPIE_0_Level1
+[2024.12.07-02.23.14:376][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004491s)
+[2024.12.07-02.23.14:376][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyMaps/Level1.Level1 to /Game/MyMaps/UEDPIE_0_Level1.Level1 (0.004533s)
+[2024.12.07-02.23.14:390][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.12.07-02.23.14:392][ 76]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.07-02.23.14:393][ 76]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.07-02.23.14:393][ 76]LogAIModule: Creating AISystem for world Level1
+[2024.12.07-02.23.14:393][ 76]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2024.12.07-02.23.14:394][ 76]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2024.12.07-02.23.14:394][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.07-02.23.14:394][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.07-02.23.14:394][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.07-02.23.14:394][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.07-02.23.14:394][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.07-02.23.14:394][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.07-02.23.14:394][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.07-02.23.14:394][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.07-02.23.14:394][ 76]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.07-02.23.14:394][ 76]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.07-02.23.14:394][ 76]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.07-02.23.14:396][ 76]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.07-02.23.14:414][ 76]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.12.07-02.23.14:414][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.07-02.23.14:414][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.07-02.23.14:414][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.07-02.23.14:415][ 76]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2024.12.07-02.23.14:415][ 76]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2024.12.07-02.23.14:417][ 76]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2024.12.07-02.23.14:417][ 76]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2024.12.07-02.23.14:417][ 76]LogInit: FAudioDevice initialized with ID 28.
+[2024.12.07-02.23.14:417][ 76]LogAudio: Display: Audio Device (ID: 28) registered with world 'Level1'.
+[2024.12.07-02.23.14:417][ 76]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2024.12.07-02.23.14:427][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.07-02.23.14:518][ 76]LogLoad: Game class is 'VRGameMode_C'
+[2024.12.07-02.23.14:520][ 76]LogWorld: Bringing World /Game/MyMaps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.12.06-19.23.14
+[2024.12.07-02.23.14:520][ 76]LogWorld: Bringing up level for play took: 0.001815
+[2024.12.07-02.23.14:523][ 76]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.12.07-02.23.14:524][ 76]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.12.07-02.23.14:526][ 76]vr.PixelDensity = "1"
+[2024.12.07-02.23.14:531][ 76]PIE: Server logged in
+[2024.12.07-02.23.14:534][ 76]PIE: Play in editor total start time 0.18 seconds.
+[2024.12.07-02.23.14:541][ 76]LogViewport: Scene viewport resized to 4160x2096, mode Windowed.
+[2024.12.07-02.23.14:547][ 76]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.12.07-02.25.50:303][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.07-02.25.50:303][269]LogWorld: BeginTearingDown for /Game/MyMaps/UEDPIE_0_Level1
+[2024.12.07-02.25.50:326][269]LogSlate: Window 'MyVRProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.103.0)' being destroyed
+[2024.12.07-02.25.50:328][269]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-02.25.50:328][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-02.25.50:331][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.07-02.25.50:335][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-02.25.50:350][269]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2024.12.07-02.25.50:350][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.12.07-02.25.50:351][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.12.07-02.25.50:359][269]LogSlate: Slate User Unregistered.  User Index 8
+[2024.12.07-02.25.50:359][269]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.12.07-02.25.50:361][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.12.07-02.25.50:490][270]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2024.12.07-02.28.53:795][190]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-02.28.53:869][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.12.07-02.28.53:894][190]LogSavePackage: Moving output files for package: /Game/MyMaps/Level1
+[2024.12.07-02.28.53:895][190]LogSavePackage: Moving '../../../../../../Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/HW2/Saved/Level1E520CE4F45D8E4CD0938EB9871F60BAA.tmp' to '../../../../../../Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/HW2/Content/MyMaps/Level1.umap'
+[2024.12.07-02.28.53:903][190]LogFileHelpers: Saving map 'Level1' took 0.081
+[2024.12.07-02.28.53:911][190]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 3.69 sec)
+[2024.12.07-02.28.53:913][190]AssetCheck: New page: Asset Save: Level1
+[2024.12.07-02.28.53:913][190]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/Level1.Level1
+[2024.12.07-02.28.58:757][750]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MyMaps/Level1.Level1:PersistentLevel.Level1
+[2024.12.07-02.28.58:758][750]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.07-02.28.58:758][750]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.07-02.29.43:110][ 98]LogSlate: Window 'New Level' being destroyed
+[2024.12.07-02.29.43:119][ 98]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.07-02.29.43:125][ 98]LightingResults: New page: Lighting Build
+[2024.12.07-02.29.43:125][ 98]LoadErrors: New page: Loading map: Template_Default.umap
+[2024.12.07-02.29.43:189][ 98]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-02.29.43:189][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-02.29.43:233][ 98]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-02.29.43:233][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-02.29.43:233][ 98]MapCheck: New page: Map Check
+[2024.12.07-02.29.43:233][ 98]LightingResults: New page: Lighting Build
+[2024.12.07-02.29.43:247][ 98]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.07-02.29.43:255][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.12.07-02.29.43:261][ 98]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2024.12.07-02.29.43:261][ 98]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.07-02.29.43:261][ 98]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.07-02.29.43:262][ 98]LogAIModule: Creating AISystem for world Untitled_1
+[2024.12.07-02.29.43:336][ 98]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.07-02.29.43:351][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.12.07-02.29.43:354][ 98]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.07-02.29.43:354][ 98]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.229ms to complete.
+[2024.12.07-02.29.56:932][502]LogSlate: Window 'New Level' being destroyed
+[2024.12.07-02.30.07:910][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.12.07-02.30.07:913][793]Cmd: MAP LOAD FILE="../../../../../../Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/HW2/Content/MyMaps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.07-02.30.07:914][793]LightingResults: New page: Lighting Build
+[2024.12.07-02.30.07:914][793]LoadErrors: New page: Loading map: Level1.umap
+[2024.12.07-02.30.07:984][793]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-02.30.07:984][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-02.30.07:984][793]MapCheck: New page: Map Check
+[2024.12.07-02.30.07:984][793]LightingResults: New page: Lighting Build
+[2024.12.07-02.30.07:996][793]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.07-02.30.07:999][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.12.07-02.30.08:011][793]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2024.12.07-02.30.08:011][793]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.07-02.30.08:011][793]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.07-02.30.08:012][793]LogAIModule: Creating AISystem for world Level1
+[2024.12.07-02.30.08:132][793]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.07-02.30.08:149][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.12.07-02.30.08:155][793]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.07-02.30.08:155][793]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.219ms to complete.
+[2024.12.07-02.30.08:155][793]LogSlate: Window 'Open Level' being destroyed
+[2024.12.07-02.30.24:112][412]LogSlate: Window 'New Level' being destroyed
+[2024.12.07-02.30.24:120][412]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.07-02.30.24:120][412]LightingResults: New page: Lighting Build
+[2024.12.07-02.30.24:120][412]LoadErrors: New page: Loading map: Template_Default.umap
+[2024.12.07-02.30.24:174][412]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-02.30.24:174][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-02.30.24:175][412]MapCheck: New page: Map Check
+[2024.12.07-02.30.24:175][412]LightingResults: New page: Lighting Build
+[2024.12.07-02.30.24:189][412]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.07-02.30.24:192][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.12.07-02.30.24:199][412]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2024.12.07-02.30.24:199][412]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.07-02.30.24:199][412]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.07-02.30.24:199][412]LogAIModule: Creating AISystem for world Untitled_2
+[2024.12.07-02.30.24:279][412]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.07-02.30.24:295][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.12.07-02.30.24:297][412]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.07-02.30.24:297][412]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.153ms to complete.
+[2024.12.07-02.30.46:263][  5]LogDerivedDataCache: C:/Users/adahmcm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.048 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2416 files in 3329 folders with total size 152 MiB.
+[2024.12.07-02.31.00:980][525]LogSlate: Window 'New Level' being destroyed
+[2024.12.07-02.31.06:356][155]Cmd: MAP LOAD FILE="../../../../../../Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/HW2/Content/MyMaps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.07-02.31.06:356][155]LightingResults: New page: Lighting Build
+[2024.12.07-02.31.06:356][155]LoadErrors: New page: Loading map: Level1.umap
+[2024.12.07-02.31.06:414][155]LogWorld: UWorld::CleanupWorld for Untitled_2, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-02.31.06:414][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-02.31.06:415][155]MapCheck: New page: Map Check
+[2024.12.07-02.31.06:415][155]LightingResults: New page: Lighting Build
+[2024.12.07-02.31.06:426][155]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.07-02.31.06:429][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.12.07-02.31.06:443][155]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2024.12.07-02.31.06:443][155]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.07-02.31.06:443][155]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.07-02.31.06:444][155]LogAIModule: Creating AISystem for world Level1
+[2024.12.07-02.31.06:567][155]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.07-02.31.06:585][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.07-02.31.06:589][155]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.07-02.31.06:590][155]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2024.12.07-02.31.12:076][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.07-02.31.12:147][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.12.07-02.31.12:168][791]LogSavePackage: Moving output files for package: /Game/MyMaps/Level1
+[2024.12.07-02.31.12:169][791]LogSavePackage: Moving '../../../../../../Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/HW2/Saved/Level126F46596418300299C0D2B8236BE6F11.tmp' to '../../../../../../Users/adahmcm/Documents/GitHub/FA24-HollidayL-McMillanA/HW2/Content/MyMaps/Level1.umap'
+[2024.12.07-02.31.12:176][791]LogFileHelpers: Saving map 'Level1' took 0.071
+[2024.12.07-02.31.12:183][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 3.80 sec)
+[2024.12.07-02.31.12:185][791]AssetCheck: New page: Asset Save: Level1
+[2024.12.07-02.31.12:185][791]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/Level1.Level1
